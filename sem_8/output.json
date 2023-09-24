@@ -1,0 +1,32 @@
+[
+    {
+        "type": "directory",
+        "name": "Telegram Desktop",
+        "parent": null,
+        "size": 834585
+    },
+    {
+        "type": "file",
+        "name": "Хакеры ведут атаку на пентагон.mp4",
+        "parent": "Telegram Desktop",
+        "size": 834585
+    },
+    {
+        "type": "file",
+        "name": "Finland-9-tcp.ovpn",
+        "parent": null,
+        "size": 6794
+    },
+    {
+        "type": "file",
+        "name": "ok.svg",
+        "parent": null,
+        "size": 238
+    },
+    {
+        "type": "file",
+        "name": "партейку в гвинт.png",
+        "parent": null,
+        "size": 395656
+    }
+]
